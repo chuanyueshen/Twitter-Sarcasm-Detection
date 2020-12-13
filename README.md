@@ -1,5 +1,7 @@
 # CS 410 Final Project - Classification Competition
 
+This is the repo for TEAM PYHTON.
+
 ## Prerequisite
 
 Please use Python3 and install the following packages:  
