@@ -51,7 +51,7 @@ X = X.todense()
 
 # X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size = 0.2)
 
-X_train, X_test = train_test_split(X, shuffle=False, test_size = 0.26470)
+X_train, X_test = train_test_split(X, shuffle=False, test_size = 0.2)
 
 
 print(X_train.shape, X_test.shape)
