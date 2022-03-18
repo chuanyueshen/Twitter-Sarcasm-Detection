@@ -1,11 +1,18 @@
-# CS 410 Final Project - Classification Competition
+# Final Project Repo for CS 410 Text Info Systems
+## Credit to team members:
+- _Chuanyue Shen (cs11)_,
+- Jianjia Zhang (jianjia2),
+- Runpeng Nie (runpeng3)
 
-This is TEAM PYTHON's repo for CS 410 final project classification competition. This competition is about **Twitter Sarcasm Detection**. We implemented Naive Bayes, SVM, and LSTM to classify a Tweet as Sarcasm or Not sarcasm. LSTM model gave the best prediction for the test dataset.
 
-Team members:
-Chuanyue Shen (cs11),
-Jianjia Zhang (jianjia2),
-Runpeng Nie (runpeng3)
+## Introduction
+
+This is TEAM PYTHON's repo for CS 410 final project classification competition: T**witter Sarcasm Detection Using Natural Language Processing and Machine Learning Techniques**. 
+
+#### Project highlights
+- Constructed a vocabulary library for 5,000 Tweets after pre-processing the data through stop word removal, stemming, and lemmatization using Python NLTK package; and reduced the vector space dimension from 40,000 to 10,000
+- Implemented Naive Bayes, SVM, and LSTM to classify a tweet as Sarcastic or Not Sarcastic based on the context and response
+- In particular, the LSTM model hyperparameters were optimized to achieve a higher accuracy than other models
 
 ## Prerequisite
 
