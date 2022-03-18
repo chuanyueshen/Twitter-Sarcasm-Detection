@@ -1,6 +1,6 @@
 # CS 410 Final Project - Classification Competition
 
-This is TEAM PYHTON's repo for CS 410 final project classification competition. This competition is about Twitter Sarcasm Detection. We implemented Naive Bayes, SVM, and LSTM to classify a Tweet as Sarcasm or Not sarcasm. LSTM model gave the best prediction for the test dataset.
+This is TEAM PYTHON's repo for CS 410 final project classification competition. This competition is about **Twitter Sarcasm Detection**. We implemented Naive Bayes, SVM, and LSTM to classify a Tweet as Sarcasm or Not sarcasm. LSTM model gave the best prediction for the test dataset.
 
 Team members:
 Chuanyue Shen (cs11),
